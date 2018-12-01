@@ -6,6 +6,6 @@ This repo includes papers I read recently.
     <p><a href="https://arxiv.org/pdf/1805.12177.pdf">Why do deep convolutional networks generalize so
 poorly to small image transformations?</a> 2018-11-15</p>
     <p><a href="https://arxiv.org/pdf/1704.00028.pdf">Improved Training of Wasserstein GANs</a> 2018-11-20</p>
-    
+    <p><a href="https://arxiv.org/pdf/1606.03657.pdf">InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets</a> 2018-11-20</p>
   </body>
 </html>
