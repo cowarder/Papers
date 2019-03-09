@@ -14,5 +14,6 @@ poorly to small image transformations?</a> 2018-11-15</p>
     <p><a href="http://openaccess.thecvf.com/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf">Rich feature hierarchies for accurate object detection and semantic segmentation</a> 2019-3-4</p>
     <p><a href="https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf">Histograms of Oriented Gradients for Human Detection</a> 2019-3-5</p>
     <p><a href="http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</a> 2019-3-8</p>
+    <p><a href="https://arxiv.org/pdf/1902.09630.pdf">Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression</a> 2019-3-9</p>
   </body>
 </html>
