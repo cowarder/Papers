@@ -15,5 +15,9 @@ poorly to small image transformations?</a> 2018-11-15</p>
     <p><a href="https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf">Histograms of Oriented Gradients for Human Detection</a> 2019-3-5</p>
     <p><a href="http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</a> 2019-3-8</p>
     <p><a href="https://arxiv.org/pdf/1902.09630.pdf">Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression</a> 2019-3-9</p>
+    <p><a href="https://arxiv.org/pdf/1502.03167.pdf">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a> 2019-3-10</p>
+    <p><a href="https://arxiv.org/pdf/1902.09630.pdf">Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression</a> 2019-3-15</p>
+    <p><a href="https://arxiv.org/pdf/1902.07296.pdf">Augmentation for small object detection</a> 2019-3-25</p>
+    
   </body>
 </html>
