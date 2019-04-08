@@ -18,6 +18,6 @@ poorly to small image transformations?</a> 2018-11-15</p>
     <p><a href="https://arxiv.org/pdf/1502.03167.pdf">Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift</a> 2019-3-10</p>
     <p><a href="https://arxiv.org/pdf/1902.09630.pdf">Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression</a> 2019-3-15</p>
     <p><a href="https://arxiv.org/pdf/1902.07296.pdf">Augmentation for small object detection</a> 2019-3-25</p>
-    
+    <p><a href="https://arxiv.org/pdf/1808.03305.pdf">The Elephant in the Room</a> 2019-3-28</p>
   </body>
 </html>
