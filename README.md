@@ -19,5 +19,6 @@ poorly to small image transformations?</a> 2018-11-15</p>
     <p><a href="https://arxiv.org/pdf/1902.09630.pdf">Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression</a> 2019-3-15</p>
     <p><a href="https://arxiv.org/pdf/1902.07296.pdf">Augmentation for small object detection</a> 2019-3-25</p>
     <p><a href="https://arxiv.org/pdf/1808.03305.pdf">The Elephant in the Room</a> 2019-3-28</p>
+    <p><a href="https://ieeexplore.ieee.org/abstract/document/8253582">Advanced Deep-Learning Techniques for Salient and Category-Specific Object Detection: A Survey</a> 2019-4-20</p>
   </body>
 </html>
