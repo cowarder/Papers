@@ -21,7 +21,6 @@ This repo includes papers I read recently.
     <p><a href="https://arxiv.org/pdf/1808.03305.pdf">The Elephant in the Room</a> 2019-3-28</p>
     <p><a href="https://ieeexplore.ieee.org/abstract/document/8253582">Advanced Deep-Learning Techniques for Salient and Category-Specific Object Detection: A Survey</a> 2019-4-20</p>
 
-<p><a href='https://link.springer.com/article/10.1007/s00170-017-0882-0'>A fast and robust convolutional neural network-based defect detection model in product quality control</a> 2019-8-20</p>
 
 
 
