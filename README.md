@@ -1,6 +1,7 @@
 This repo includes papers I read recently.
 <html>
   <body>
+
     <p><a href="https://arxiv.org/pdf/1701.00160.pdf">NIPS 2016 Tutorial:Generative Adversarial Networks</a> 2018-11-4</p>
     <p><a href="https://arxiv.org/pdf/1701.07875.pdf">Wasserstein GAN</a> 2018-11-7</p>
     <p><a href="https://arxiv.org/pdf/1805.12177.pdf">Why do deep convolutional networks generalize so
@@ -20,5 +21,12 @@ poorly to small image transformations?</a> 2018-11-15</p>
     <p><a href="https://arxiv.org/pdf/1902.07296.pdf">Augmentation for small object detection</a> 2019-3-25</p>
     <p><a href="https://arxiv.org/pdf/1808.03305.pdf">The Elephant in the Room</a> 2019-3-28</p>
     <p><a href="https://ieeexplore.ieee.org/abstract/document/8253582">Advanced Deep-Learning Techniques for Salient and Category-Specific Object Detection: A Survey</a> 2019-4-20</p>
+
+<p><a href='https://link.springer.com/article/10.1007/s00170-017-0882-0'>A fast and robust convolutional neural network-based defect detection model in product quality control</a> 2019-8-20</p>
+
+
+
+
+
   </body>
 </html>
